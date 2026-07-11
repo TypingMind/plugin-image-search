@@ -16,6 +16,7 @@
   ],
   "emoji": "🌅",
   "title": "Image Search",
+  "iconURL": "https://custom.typingmind.com/assets/plugins/image-search.webp",
   "openaiSpec": {
     "name": "search_images_via_google",
     "description": "Search for images from the internet in real-time using Google Search.",
